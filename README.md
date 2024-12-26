@@ -32,8 +32,8 @@ Also, download the pre-trained models (model_svc.pkl and model_svc2.pkl) into th
 1.  Clone this repository:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPO_NAME>
+git clone https://github.com/ayoubboudra1/Age_Gender_detection_using_svm.git
+cd Age_Gender_detection_using_svm
 ```
 
 2.  Run the Streamlit application:
