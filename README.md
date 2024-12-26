@@ -7,7 +7,6 @@ This application uses machine learning models to detect the gender and age of in
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#contributions)
 - [Authors](#authors)
 
 ## Features
